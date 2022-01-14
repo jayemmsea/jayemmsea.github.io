@@ -3,32 +3,41 @@ body {
   background-color: tomato;
   color: black;
   font-family: Verdana;
+  background-image:url("bg.jpg");
+  background-color:#ffffff;
+
 }
+
+h3 {
+	text-align:center;
+}
+
 .main {
-  background-color:rgba(255,255,255,0.5);
   border-radius:10px;
   padding: 20px;
   margin: auto;
-  width: 69%;
+  width: 60%;
   text-align: center;
 }
 .right {
-  width:10%;
+  width:18%;
+  border-radius:10px;
   margin: auto;
   text-align:justify;
   position:absolute;
-  right:0px;
-  top:0px;
+  right:5px;
+  top:6px;
   
   background-color:rgba(255,255,255,0.3);
 }
 .left {
-  width:10%;
+  width:18%;
   margin: auto;
+  border-radius:10px;
   text-align:justify;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:5px;
+  top:6px;
   
   background-color:rgba(255,255,255,0.3)
 }
