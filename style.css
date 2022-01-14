@@ -18,7 +18,7 @@ body {
   text-align:justify;
   position:absolute;
   right:0px;
-  top:5%;
+  top:0px;
   
   background-color:rgba(255,255,255,0.3);
 }
@@ -28,7 +28,7 @@ body {
   text-align:justify;
   position:absolute;
   left:0px;
-  top:5%;
+  top:0px;
   
   background-color:rgba(255,255,255,0.3)
 }
