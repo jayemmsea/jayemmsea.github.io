@@ -3,8 +3,13 @@ body {
   background-color: tomato;
   color: black;
   font-family: Verdana;
+<<<<<<< HEAD
   background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
   font-family: "Georgia, serif";
+=======
+  background-image:linear-gradient(#f67b6b,#f2c1ea,#f8f9c7);
+
+>>>>>>> 5d36584f9888f8f8f6f517da336a29aa9fcea07c
 }
 
 h3 {
