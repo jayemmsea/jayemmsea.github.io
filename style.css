@@ -3,7 +3,7 @@ body {
   background-color: tomato;
   color: black;
   font-family: Verdana;
-  background-image:url("bg.jpg");
+  background-image:linear-gradient(to bottom, #f67b6b, #f2c1ea, #f8f9c7);
   background-color:#ffffff;
 
 }
@@ -13,6 +13,7 @@ h3 {
 }
 
 .main {
+  background-color:rgba(255,255,255,0.7);
   border-radius:10px;
   padding: 20px;
   margin: auto;
@@ -28,7 +29,7 @@ h3 {
   right:5px;
   top:6px;
   
-  background-color:rgba(255,255,255,0.3);
+  background-color:rgba(255,255,255,0.5);
 }
 .left {
   width:18%;
@@ -39,5 +40,5 @@ h3 {
   left:5px;
   top:6px;
   
-  background-color:rgba(255,255,255,0.3)
+  background-color:rgba(255,255,255,0.5)
 }
