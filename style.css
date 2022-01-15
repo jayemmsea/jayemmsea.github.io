@@ -1,25 +1,45 @@
+@font-face {
+	font-family:"Blackwolf";
+	src: url("BlackWolf.ttf");
+}
+@font-face {
+	font-family:"C059"
+	src: url("urw-base35/C059-Bold.otf")
 
+}
 body {
-  color: black;
-  background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
-  font-family:sans-serif;
+	color: black;
+	background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
+	font-family:"Blackwolf", sans-serif;
+	font-size:20px;
+  
 }
 a {
 	color:#f67b6b;
 	font-weight:bold;
 }
+
+h1 {
+	font-size:60px;
+	font-family:"Blackwolf";
+	font-weight:bold;
+}
 h3 {
 	text-align:center;
+	text-decoration:underline;
+	font-size:30px;
+	font-family:"Blackwolf";
 }
 
-p {
-	
+p {	
+	font-family:"C059";
 }
 
 iframe {
 	display: block;
 	margin-left: auto;
 	margin-right:auto;
+	margin-top:0px;
 }
 #center {
 	background-color:rgba(0,0,0,0);
@@ -30,7 +50,8 @@ iframe {
 .main {
   background-color:rgba(255,255,255,0.7);
   border-radius:10px;
-  padding: 20px;
+  padding-top: 1px;
+  padding-bottom: 10px;
   text-align: center;
 }
 #rightcol {
