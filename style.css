@@ -2,9 +2,12 @@
 body {
   color: black;
   background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
-  font-family: "Georgia, serif";
+  font-family: "sans-serif";
 }
-
+a {
+	color:#f67b6b;
+	font-weight:bold;
+}
 h3 {
 	text-align:center;
 }
@@ -48,13 +51,13 @@ iframe {
 .right {
   border-radius:10px;
   line-height:60px;
-  text-align:right;
+  text-align:center;
   background-color:rgba(255,255,255,0.5);
 }
 .left {
   border-radius:10px;
   line-height:60px;
-  text-align:left;
+  text-align:center;
   background-color:rgba(255,255,255,0.5);
 }
 .plant {
