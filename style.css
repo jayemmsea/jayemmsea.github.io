@@ -2,7 +2,7 @@
 body {
   color: black;
   background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
-  font-family: "sans-serif";
+  font-family:sans-serif;
 }
 a {
 	color:#f67b6b;
