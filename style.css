@@ -3,7 +3,7 @@ body {
   background-color: tomato;
   color: black;
   font-family: Verdana;
-  background-image:linear-gradient(to bottom, #f67b6b, #f2c1ea, #f8f9c7);
+  background-image:linear-gradient(#f67b6b, #f2c1ea, #f8f9c7);
   background-color:#ffffff;
 
 }
