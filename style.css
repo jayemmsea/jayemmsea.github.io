@@ -60,6 +60,9 @@ iframe {
 img {
 	vertical-align:baseline;
 }
+b {
+	font-family:Blackwolf;
+}
 
 #center {
 	background-color:rgba(0,0,0,0);
@@ -118,3 +121,16 @@ img {
 	top:0px;
 	left:0px;
 }
+.logs {
+	font-family:"C059";
+	text-align:justify;
+	background-color:rgba(255,255,255,0.7);
+	border-radius:10px;
+	padding-top: 1px;
+	padding-left:15px;
+	padding-right:15px;
+ 	padding-bottom: 10px;
+	border-color:#f8f9c7;
+	border-style:solid;
+}
+
