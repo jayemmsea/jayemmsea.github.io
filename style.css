@@ -60,6 +60,11 @@ iframe {
 img {
 	vertical-align:baseline;
 }
+video {
+	margin:auto;
+	display:block;
+}
+
 b {
 	font-family:Blackwolf;
 }
