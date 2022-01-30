@@ -1,0 +1,17 @@
+body {
+	background-color:lightgray;
+	color:black;
+	font-family:monospace;
+	font-size:14px;
+	text-align:center;
+}
+h1 { 
+	color: red;
+	font-size: 30px;
+}
+.blog {
+	text-align:left;
+	width:80%;
+	position:relative;
+	left:10%;
+}
